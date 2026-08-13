@@ -1,16 +1,17 @@
-🏭 Fulfillment Center Manpower & Network Optimization
+# 🏭 Fulfillment Center Manpower & Network Optimization
 
-Workforce Planning | Excel Solver | Cost Optimization | SLA Management | Operations Analytics
+### **Workforce Planning | Excel Solver | Cost Optimization | SLA Management | Operations Analytics**
 
-📌 Project Overview
+---
 
+## **📌 Project Overview**
 This project develops a data-driven workforce planning and optimization model for a fulfillment center.
 
 The model uses Microsoft Excel Solver to determine the optimal allocation of Full-Time Employees (FTEs) and contract staff across different shifts, with the objective of minimizing workforce cost while satisfying operational demand and SLA requirements.
 
 In addition to manpower optimization, the project maps the cross-functional handoffs between Operations, Finance, HRBP, and Facilities to identify bottlenecks, reduce coordination delays, and improve overall fulfillment-center efficiency.
 
-🎯 Business Objective
+## **🎯 Business Objective**
 
 A fulfillment center must maintain enough manpower to handle demand without unnecessarily increasing labor costs.
 
@@ -94,7 +95,7 @@ Bottleneck Analysis
 
 Identification of operational delays
 
-🔄 Project Workflow
+## **🔄 Project Workflow**
 
                  OPERATIONAL DEMAND
                          │
@@ -471,23 +472,10 @@ Cross-functional bottleneck analysis
 
 The outputs_viz/ folder contains the project's charts and visualization outputs.
 
-📁 Repository Structure
+💼 Resume Project Description
 
-Fulfillment-Center-Manpower-Optimization/
-│
-├── 📄 README.md
-│
-├── 📁 data/
-│   └── Input datasets
-│
-├── 📁 docs/
-│   └── Project documentation
-│
-├── 📁 excel_model/
-│   └── Excel Solver optimization model
-│
-├── 📁 outputs_viz/
-│   └── Charts and model outputs
-│
-└── 📁 sql/
-    └── Supporting SQL queries
+Fulfillment Center Manpower and Network Optimization
+
+Built a workforce scheduling model using Excel Solver to optimize FTE and contract staff allocation across shifts while minimizing cost and meeting SLA targets.
+
+Mapped cross-functional handoffs across Operations, Finance, HRBP and Facilities to identify bottlenecks and improve process coordination.

@@ -1,0 +1,6 @@
+metric,target_pct,shift,target_units
+Same-day dispatch SLA,98.0,All,
+Max processing backlog carry-over,,Night (22-06),500.0
+Min staffing coverage vs forecast load,100.0,All,
+Max contract staff share of workforce,55.0,All,
+Absenteeism / shrinkage buffer,8.0,All,

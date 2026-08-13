@@ -1,0 +1,3 @@
+staff_type,monthly_cost_inr,effective_hours_per_shift,productivity_units_per_hour,max_headcount_available,min_headcount_required,overtime_allowed,overtime_cost_multiplier,night_shift_eligible
+FTE,28000,7.5,26,150,90,Yes,1.5,Yes
+Contract,17500,8.0,21,600,0,No,1.0,Yes
